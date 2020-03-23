@@ -1,3 +1,41 @@
+def base_hash
+  {
+    :railroads =>{}
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 =begin
 def base_hash
   hash={:railroads => {}}
@@ -47,4 +85,5 @@ def monopoly_with_fourth_tier
    }
    }
  }
-end=end
+end
+=end
