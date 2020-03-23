@@ -3,7 +3,8 @@ def base_hash
     :railroads =>{}
   }
 
-
+def monopoly_with_second_tier
+  
 
 
 
