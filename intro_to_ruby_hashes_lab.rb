@@ -1,3 +1,4 @@
+=begin
 def base_hash
  hash ={:railroads => {}}
 end
@@ -62,7 +63,7 @@ def monopoly_with_fourth_tier
     }
    }
 end
-  
+=end  
 
 
 
@@ -94,7 +95,6 @@ end
 
 
 
-=begin
 def base_hash
   hash={:railroads => {}}
 end
@@ -144,4 +144,3 @@ def monopoly_with_fourth_tier
    }
  }
 end
-=end
